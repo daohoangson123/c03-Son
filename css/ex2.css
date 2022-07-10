@@ -1,0 +1,8 @@
+.box-default {
+    background-color: aqua;
+    width: 30%;
+    height: auto;
+    margin: 0px auto;
+    padding: 50px;
+    text-align: justify;
+}
